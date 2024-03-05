@@ -1,6 +1,6 @@
 ### Hi there, I'm Sandile Kitayi
 ### Design and Development 
-![Design and Development ](https://github.com/ksandile/SandileKitayi/blob/main/Banner.jpg)
+![Design and Development ](https://github.com/ksandile/SandileKitayi/blob/main/the%20software.jpg)
 
 I'm a software developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Technology I enjoy working with Javascript, HTML, CSS, Tailwind, and APIs. 
 
